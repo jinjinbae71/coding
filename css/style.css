@@ -101,6 +101,3 @@ object-fit: cover;
 --bs-accordion-active-color: var(--brand-espresso);
 }
 
-* {
-outline: 1px solid red;
-}
